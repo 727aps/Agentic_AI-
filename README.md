@@ -1,15 +1,47 @@
 # Agentic AI Projects
 
-This repository contains 6 different Agentic AI use cases implemented with various AI frameworks and APIs.
+![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+
+This repository contains 6 different Agentic AI use cases implemented with various AI frameworks and APIs. Each project follows best practices with organized structure, comprehensive documentation, and secure API key management.
 
 ## Project Structure
 
-- **USE CASE 1**: Personalized Recommendation System - AI-powered recommendation engine
-- **USE CASE 2**: Document Analysis Agent - Multi-agent system for document processing and analysis
-- **USE CASE 3**: Travel Planner - AI travel planning assistant
-- **USE CASE 4**: Real Estate Agent - Real estate analysis and recommendations
-- **USE CASE 5**: Health Care Agent - AI healthcare assistant
-- **USE CASE 6**: Code Reviews with PR Agent - AI-powered code review system
+### 📊 USE CASE 1: Personalized Recommendation System
+- **Location**: `USE CASE 1_ Personalized Recommendation System/`
+- **Technology**: CrewAI, LangChain, Groq API
+- **Features**: Multi-source content analysis, personalized recommendations
+- **Files**: `notebooks/`, `requirements.txt`, `README.md`
+
+### 📄 USE CASE 2: Document Analysis Agent
+- **Location**: `USE CASE 2_ Document Analysis Agent/`
+- **Technology**: Multi-agent Python application
+- **Features**: Document extraction, structuring, finance analysis, RAG
+- **Files**: `agents/`, `main.py`, `storage/`
+
+### ✈️ USE CASE 3: Travel Planner
+- **Location**: `USE CASE 3 _ Travel Planner/`
+- **Technology**: Streamlit, Phi framework, Groq API
+- **Features**: AI-powered travel planning and recommendations
+- **Files**: `main.py`, `requirements.txt`, `Output/`
+
+### 🏠 USE CASE 4: Real Estate Agent
+- **Location**: `USE CASE 4_ Real Estate Agent/`
+- **Technology**: Google ADK, LiteLLM, Gradio
+- **Features**: Real estate analysis and market insights
+- **Files**: `notebooks/`, `requirements.txt`, `README.md`
+
+### 🏥 USE CASE 5: Health Care Agent
+- **Location**: `USE CASE 5_ Health Care Agent/`
+- **Technology**: CrewAI, LangChain, PyMuPDF
+- **Features**: Medical document analysis, healthcare recommendations
+- **Files**: `notebooks/`, `requirements.txt`, `README.md`
+
+### 🔍 USE CASE 6: Code Reviews with PR Agent
+- **Location**: `USE CASE 6 _ CODE REVIEWS WITH PR AGENT/`
+- **Technology**: LangGraph, Ollama, GitHub API
+- **Features**: AI-powered code review and PR analysis
+- **Files**: `review.py`, `requirements.txt`, supporting scripts
 
 ## Setup Instructions
 
