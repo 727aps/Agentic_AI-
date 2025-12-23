@@ -29,15 +29,17 @@ This repository contains 6 different Agentic AI use cases implemented with vario
 
 **Innovation/Value**: Provides scalable document intelligence, reducing analysis time by 60% through parallel agent processing and unified vector representations.
 
-### ✈️ Project 3: AI-Powered Travel Planning System
-**Core Use Case**: Solves fragmented travel planning by integrating multi-source research, personalized itinerary generation, and real-time booking coordination.
+### ✈️ Project 3: AI-Powered Travel Intelligence Orchestration System
+**Core Use Case**: Addresses fragmented travel planning through coordinated multi-agent systems that conduct comprehensive destination research, optimize flight selections, curate accommodations, and generate optimized itineraries.
 
 **Key Technical Highlights**:
-- Phi framework agent orchestration with DuckDuckGo search integration
-- Streamlit-based interactive planning interface with Groq API optimization
-- Multi-agent collaboration for destination research and logistics coordination
+- Phi framework orchestration with specialized travel domain agents
+- DuckDuckGo-powered real-time web intelligence gathering
+- Sequential agent workflow with structured data accumulation
+- Streamlit interactive interface with progress visualization
+- Cost-benefit activity sequencing algorithms
 
-**Innovation/Value**: Streamlines travel planning workflow, reducing research time by 75% through intelligent agent-driven itinerary optimization and booking automation.
+**Innovation/Value**: Transforms travel planning efficiency, reducing research time by 75% through intelligent agent collaboration and real-time data synthesis for comprehensive trip orchestration.
 
 ### 🏠 Project 4: Hierarchical Real Estate Intelligence Agent System
 **Core Use Case**: Addresses inefficient property search through hierarchical agent systems that capture preferences, execute market searches, and generate personalized recommendations.
@@ -100,14 +102,3 @@ export FIRECRAWL_API_KEY=your_firecrawl_key_here
 
 Each use case may have specific requirements. Check the `requirements.txt` files in individual project folders for dependencies.
 
-## Security Note
-
-All API keys and tokens have been replaced with placeholders (`"add_your_api_key"`) in the code. Never commit actual API keys to version control.
-
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Ensure no secrets are committed
-5. Submit a pull request
