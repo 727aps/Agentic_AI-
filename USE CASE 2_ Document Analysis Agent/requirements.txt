@@ -1,0 +1,7 @@
+gradio
+python-dotenv
+chromadb
+asyncio
+uuid
+json
+os
