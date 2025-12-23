@@ -1,0 +1,28 @@
+*.pyc
+__pycache__/
+.DS_Store
+# Google Drive temp files
+*.tmp
+*.gdoc
+*.gsheet
+*.gslides
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+# OS files
+Thumbs.db
+.DS_Store
+# Python virtual environments
+venv/
+env/
+.venv/
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+# Logs
+*.log
+logs/
+# Temporary files
+*.tmp
+*.temp

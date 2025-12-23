@@ -1,0 +1,9 @@
+diff --git a/calculator.py b/calculator.py
+new file mode 100644
+index 0000000..a569ded
+--- /dev/null
++++ b/calculator.py
+@@ -0,0 +1,2 @@
++def add(a,b):
++    return a-b # Bug!
+\ No newline at end of file
