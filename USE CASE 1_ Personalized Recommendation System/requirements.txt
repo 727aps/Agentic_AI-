@@ -1,0 +1,12 @@
+crewai
+crewai_tools
+load_dotenv
+langchain-huggingface
+groq
+googlesearch-python
+youtube-search-python
+yt_dlp
+faiss-cpu
+openai
+youtube-transcript-api
+firecrawl-py

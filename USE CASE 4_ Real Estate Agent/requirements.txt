@@ -1,0 +1,6 @@
+google-adk
+httpx
+google-agents
+google-generativeai
+litellm
+gradio
